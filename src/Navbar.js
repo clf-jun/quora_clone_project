@@ -63,7 +63,7 @@ function Navbar() {
                 <Avatar src={user.photo} onClick={() => auth.signOut()}/>
             </div>
             <Language/>
-            <Button onClick={() => setOpenModal(true)}>질문하기</Button>
+            <Button onClick={() => setOpenModal(true)}>질문하기</Button> 
 
             <Modal isOpen={openModal} onRequestClose={() => setOpenModal(false)}
             shouldCloseOnOverlayClick={false}

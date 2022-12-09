@@ -22,9 +22,10 @@ export const userSlice = createSlice({
     },
   },
 });
-
+ 
 export const { login, logout } = userSlice.actions;
 
-export const selectUser = (state) => state.user.user;
+export const selectUser = (state) => state.user.user; //user안에 payload에서 받은 user정보를 export(이름 같다고 헷갈리기x)
+//다른 컴포넌트 안에도 현재 로그인정보를 확인할 수 있게 useSelector를 통해 정보를 보내주는 역할
 
 export default userSlice.reducer;
