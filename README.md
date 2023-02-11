@@ -16,7 +16,7 @@
 
 ## 3. 구조도
 
-(https://user-images.githubusercontent.com/83111488/218283377-5906187b-c1f4-4423-a791-09abf48122b8.PNG)
+![main](https://user-images.githubusercontent.com/83111488/218283377-5906187b-c1f4-4423-a791-09abf48122b8.PNG)
 
 
 ## 4. 작동방법
