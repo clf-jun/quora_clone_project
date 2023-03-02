@@ -1,5 +1,5 @@
 # Quora Clone Website
-![home](https://user-images.githubusercontent.com/83111488/218282870-ef207437-32a3-4430-ba7e-a76a8953261c.jpg)
+![quora_main](https://user-images.githubusercontent.com/83111488/222379973-8efa68b6-1ad5-49f6-aeb3-93fca1a44347.jpg)
 
 - 제작에 도움을 준 영상: https://www.youtube.com/watch?v=j3-4QTcAcNk&t=9623s
 - 원본 영상에서 디자인적인 요소를 추가

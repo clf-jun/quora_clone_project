@@ -5,48 +5,40 @@ function WidgetOptions() {
   return (
     <div className='widgetOptions'>
         <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
+            <img src="https://w7.pngwing.com/pngs/565/454/png-transparent-user-computer-icons-anonymity-head-miscellaneous-face-service.png" alt=""></img>
             <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
+                <h5>Chris</h5>
+                <p>Can anyone help me with my C++ programming project?</p>
             </div>
         </div>
         <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
+            <img src="https://w7.pngwing.com/pngs/565/454/png-transparent-user-computer-icons-anonymity-head-miscellaneous-face-service.png" alt=""></img>
             <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
+                <h5>Jason</h5>
+                <p>What are the benefits of learning Java or Swift for developing iOS apps?</p>
             </div>
-        </div>
+        </div>        
         <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
+            <img src="https://w7.pngwing.com/pngs/565/454/png-transparent-user-computer-icons-anonymity-head-miscellaneous-face-service.png" alt=""></img>
             <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
+                <h5>Cathy</h5>
+                <p>What is the meaning of "authenticated" in Python?</p>
             </div>
-        </div>
+        </div>        
         <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
+            <img src="https://w7.pngwing.com/pngs/565/454/png-transparent-user-computer-icons-anonymity-head-miscellaneous-face-service.png" alt=""></img>
             <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
+                <h5>Mike</h5>
+                <p>Should I use the IntelliJ IDEA idea as a web developer?</p>
             </div>
-        </div>
+        </div>        
         <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
+            <img src="https://w7.pngwing.com/pngs/565/454/png-transparent-user-computer-icons-anonymity-head-miscellaneous-face-service.png" alt=""></img>
             <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
+                <h5>John</h5>
+                <p>Is there an online tool to convert Python code into Java code?</p>
             </div>
-        </div>
-        <div className='widget_content'>
-            <img src="https://images.chosun.com/resizer/u9nJRxs0BbtjygJ4HzKukecXnOk=/464x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVBJZL3RXAB36BDSHVM3MW2WNY.jpg" alt=""></img>
-            <div className='widget_contentTitle'>
-                <h5>페페</h5>
-                <p>리액트가 재밌는 페페</p>
-            </div>
-        </div>
-
+        </div>        
     </div>
   )
 }
